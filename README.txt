@@ -1,0 +1,1 @@
+Upload the contents of this ZIP (not the ZIP itself) to the root of your GitHub Pages repository. All 100 article pages are under articles/. The homepage lists all articles. Independent service disclaimer appears on every page.
